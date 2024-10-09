@@ -1,10 +1,10 @@
 name: reset_provider
 description: "A widget that resets it's child on request."
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/martinsellergren/reset_provider
 
 environment:
-  sdk: ^3.5.2
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
